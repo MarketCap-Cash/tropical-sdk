@@ -1,5 +1,5 @@
 {
-  "name": "@tangoswap-libs/sdk-v2",
+  "name": "@tropical-libs/sdk-v2",
   "license": "MIT",
   "version": "2.2.0",
   "description": "🛠 An SDK for building applications on top of pancakeswap.",
